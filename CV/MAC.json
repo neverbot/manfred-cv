@@ -850,6 +850,22 @@
   "knowledge": {
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree in Videogame Design and Development",
+        "startDate": "2003-01-01",
+        "finishDate": "2004-01-01",
+        "institution": {
+          "name": "Universitat Pompeu i Fabra",
+          "description": "End of degree project awarded with the Mention for Best Technology of the ArtFutura 2004 festival.",
+          "URL": "http://www.upf.edu",
+          "image": {
+            "alt": "50ed58bf-66df-ef68-e34e-ac1b3983c2f7.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f21a5c1-ef0b-4662-9fc3-ec04e6a6e42e_50ed58bf-66df-ef68-e.png"
+          }
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Int. Artificial Intelligence",
@@ -863,17 +879,6 @@
             "alt": "Int. Artificial Intelligence",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/69651b5c-e283-44d9-8090-d79e4891caae_hq9lj.jpg"
           }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master's degree",
-        "startDate": "2003-01-01",
-        "finishDate": "2004-01-01",
-        "institution": {
-          "name": "Videogame Design and Development, Universitat Pompeu i Fabra",
-          "URL": "http://www.upf.edu"
         }
       },
       {
