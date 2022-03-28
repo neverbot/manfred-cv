@@ -873,11 +873,11 @@
         "finishDate": "2012-01-01",
         "institution": {
           "name": "Stanford University",
-          "description": "",
+          "description": "Online advanced track by Peter Norvig and Sebastian Thrun at Stanford University, 86.2% grade.",
           "URL": "http://web.stanford.edu",
           "image": {
-            "alt": "Int. Artificial Intelligence",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/69651b5c-e283-44d9-8090-d79e4891caae_hq9lj.jpg"
+            "alt": "Stanford-University-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/110421c5-0d72-47de-aa79-48d4203bfa9d_stanford-university-.png"
           }
         }
       },
