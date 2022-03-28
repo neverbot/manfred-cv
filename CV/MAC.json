@@ -850,18 +850,6 @@
   "knowledge": {
     "studies": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master of Engineering (MEng) (unfinished)",
-        "startDate": "2012-01-01",
-        "finishDate": "2013-01-01",
-        "institution": {
-          "name": "Advanced Artificial Intelligence, UNED",
-          "description": "",
-          "URL": "http://www.uned.es"
-        }
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Int. Artificial Intelligence",
@@ -917,6 +905,22 @@
           "image": {
             "alt": "politecnica-madrid-logo.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f5c6e66-6d63-403e-b3ba-7959d4c1290b_politecnica-madrid-l.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Engineering (MEng) (unfinished)",
+        "startDate": "2012-01-01",
+        "finishDate": "2013-01-01",
+        "institution": {
+          "name": "Advanced Artificial Intelligence, UNED",
+          "description": "",
+          "URL": "http://www.uned.es",
+          "image": {
+            "alt": "logo-UNED.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ff335203-67ec-4348-b49e-a2f1014ca353_logo-uned.jpg"
           }
         }
       }
