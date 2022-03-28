@@ -873,7 +873,7 @@
         "finishDate": "2012-01-01",
         "institution": {
           "name": "Stanford University",
-          "description": "Online advanced track by Peter Norvig and Sebastian Thrun at Stanford University, 86.2% grade.",
+          "description": "Online advanced track by Peter Norvig and Sebastian Thrun at Stanford University, 86.2% grade.\n\nTaught on an online platform which became the genesis of Udacity and the origin of mooc education.",
           "URL": "http://web.stanford.edu",
           "image": {
             "alt": "Stanford-University-logo.png",
