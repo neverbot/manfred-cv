@@ -852,18 +852,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ph.D. Student (on hold)",
-        "startDate": "2015-10-01",
-        "finishDate": "2015-10-01",
-        "institution": {
-          "name": "Software, Systems and Computing, Universidad Politécnica de Madrid",
-          "description": "",
-          "URL": "http://www.upm.es"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Master of Engineering (MEng) (unfinished)",
         "startDate": "2012-01-01",
         "finishDate": "2013-01-01",
@@ -909,6 +897,22 @@
         "institution": {
           "name": "Videogame Design and Development, Universitat Pompeu i Fabra",
           "URL": "http://www.upf.edu"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ph.D. Student (on hold)",
+        "startDate": "2015-10-01",
+        "finishDate": "2015-10-01",
+        "institution": {
+          "name": "Software, Systems and Computing, Universidad Politécnica de Madrid",
+          "description": "",
+          "URL": "http://www.upm.es",
+          "image": {
+            "alt": "kisspng-technical-university-of-madrid-avenida-del-campus-logo-upm-28-images-logo-upm-logospike-com-famo-5b6b121e9ea973.8598740015337436466499.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/10c08589-641f-41cc-9964-01e2ef5ae0c9_kisspng-technical-un.jpg"
+          }
         }
       }
     ]
