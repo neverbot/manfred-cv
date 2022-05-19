@@ -9,7 +9,7 @@
       "name": "Iván",
       "surnames": "Alonso Gutiérrez",
       "title": "Software Artisan and Imaginaut",
-      "description": "The automated summary that LinkedIn created for me said: \"Experienced Project Manager with a demonstrated history of working in the internet industry\", so it must be true.\n\nSenior professional with 19 years of experience in software development in different fields: consultancy, e-commerce, start-ups, academic research, R+D and videogames, half of them in project management roles.",
+      "description": "The automated summary that LinkedIn created for me said: \"Experienced Project Manager with a demonstrated history of working in the internet industry\", so it must be true.\n\nSenior professional with 20 years of experience in software development in different fields: consulting, e-commerce, start-ups, academic research, R+D and videogames, half of them in hands-on project management roles.",
       "avatar": {
         "alt": "photo_2022-02-22 16.52.14.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/98886669-18ff-468d-9543-af87085e99f1_photo_2022-02-22-16.jpeg"
@@ -20,35 +20,99 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ivanalonso/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/neverbot"
+      },
+      {
+        "type": "other",
+        "URL": "https://neverbot.com"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/neverbot"
       },
       {
-        "type": "other",
-        "URL": "https://neverbot.com"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ivanalonso/"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Favorite editor",
-        "fact": "Sublime Text"
-      },
-      {
         "topic": "First computer",
         "fact": "486DX2 66MHz"
+      },
+      {
+        "topic": "Favorite editor",
+        "fact": "Sublime Text"
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "GameLearn",
+          "image": {
+            "alt": "GameLearn",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3c4e66bf-458a-4e3b-b8bd-9d5e0dba2d91_re7sq.jpg"
+          },
+          "URL": "https://www.game-learn.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Engineering Manager / Software Artisan",
+            "startDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "Senior engineering manager, creating a new platform for game-based e-learning products, in a role pivoting between backend architect, team leader and DX (Developer experience) specialist."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "House of Maldorne",
+          "image": {
+            "alt": "House of Maldorne",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/524a8faa-aa00-4d04-a1b2-43ca32f030ec_c0p2o.png"
+          },
+          "URL": "https://maldorne.org/"
+        },
+        "roles": [
+          {
+            "name": "(nonprofit) Lead Game Designer",
+            "startDate": "2003-01-01",
+            "challenges": [
+              {
+                "description": "Lead Game Designer in the nonprofit retro online game Ciudad Capital, part of the House of Maldorne organization.\n\n*   World Building\n*   Writing technical documentation\n*   Training of new game designers\n*   Development, testing and evolution of new mechanics\n*   End of degree project based on the world building tools developed\n*   Ph. D. Thesis (being written) based on the procedural content generation tools developed"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Crowdfarming",
@@ -69,11 +133,7 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
+                "name": "Azure",
                 "type": "technology"
               },
               {
@@ -81,11 +141,15 @@
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "MongoDB",
                 "type": "technology"
               },
               {
-                "name": "Azure",
+                "name": "NodeJS",
                 "type": "technology"
               }
             ]
@@ -112,81 +176,11 @@
                 "type": "technology"
               },
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Laravel",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Acceso"
-        },
-        "roles": [
-          {
-            "name": "Project Manager",
-            "startDate": "2011-09-01",
-            "finishDate": "2012-01-31",
-            "challenges": [
-              {
-                "description": "Project manager of a small team hired to improve the client platform used to obtain corporate reputation metrics and perform market research, using the scrum methodology."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Doctrine",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Billionlabs"
-        },
-        "roles": [
-          {
-            "name": "Agile Project Manager / Software Artisan",
-            "startDate": "2014-07-01",
-            "finishDate": "2016-10-31",
-            "challenges": [
-              {
-                "description": "Helping start-ups and e-commerce companies to make the magic happen. Technical project management, requirement analysis and software development of various projects, making the company grow until acquisition by the Sngular Group.\n\n*   2015/16: pixie.es: programming learning site, teaching programming to kids with videogames and visual code blocks; using multiple game engines and Google Blockly. Currently part of the Telefónica/Wayra \"Gran Vía Open Future\\_\" program.\n*   2016: sngular.team: internal CMS developed from scratch with job portal, personal blogs, company news, etc.\n*   2016: multiple e-commerce sites (enviocoronas.com, nac.es).\n*   2015: lolamarket.com: multi-market grocery delivery service with personal shoppers.\n*   2014: ticdomestic.com: vertical employment portal."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
                 "name": "Laravel",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Vagrant",
+                "name": "PHP",
                 "type": "technology"
               }
             ]
@@ -214,7 +208,11 @@
             ],
             "competences": [
               {
-                "name": "PHP",
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -222,7 +220,11 @@
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Vagrant",
                 "type": "technology"
               },
               {
@@ -232,13 +234,48 @@
               {
                 "name": "jQuery",
                 "type": "technology"
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Billionlabs"
+        },
+        "roles": [
+          {
+            "name": "Agile Project Manager / Software Artisan",
+            "startDate": "2014-07-01",
+            "finishDate": "2016-10-31",
+            "challenges": [
+              {
+                "description": "Helping start-ups and e-commerce companies to make the magic happen. Technical project management, requirement analysis and software development of various projects, making the company grow until acquisition by the Sngular Group.\n\n*   2015/16: pixie.es: programming learning site, teaching programming to kids with videogames and visual code blocks; using multiple game engines and Google Blockly. Currently part of the Telefónica/Wayra \"Gran Vía Open Future\\_\" program.\n*   2016: sngular.team: internal CMS developed from scratch with job portal, personal blogs, company news, etc.\n*   2016: multiple e-commerce sites (enviocoronas.com, nac.es).\n*   2015: lolamarket.com: multi-market grocery delivery service with personal shoppers.\n*   2014: ticdomestic.com: vertical employment portal."
+              }
+            ],
+            "competences": [
               {
                 "name": "AWS",
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
                 "name": "Vagrant",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -247,41 +284,257 @@
       },
       {
         "organization": {
-          "name": "GameLearn",
+          "name": "Fluzo Studio",
           "image": {
-            "alt": "GameLearn",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3c4e66bf-458a-4e3b-b8bd-9d5e0dba2d91_re7sq.jpg"
+            "alt": "Fluzo Studio",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f0e71651-dac8-4064-84e8-2e99593ce73c_6c7c080526f46bfbce6b.png"
           },
-          "URL": "https://www.game-learn.com/"
+          "URL": "http://fluzostudios.com/web"
         },
         "roles": [
           {
-            "name": "Senior Engineering Manager / Software Artisan",
-            "startDate": "2019-06-01",
+            "name": "Game Developer / Game Designer",
+            "startDate": "2013-05-01",
+            "finishDate": "2013-07-31",
             "challenges": [
               {
-                "description": "Senior engineering manager, creating a new platform for game-based e-learning products, in a role pivoting between backend architect, team leader and DX (Developer experience) specialist."
+                "description": "Artificial Intelligence / Behaviour designer and developer in the pre-production demo of The Promise ([http://www.fluzostudios.com/WebEn/the-promise/](http://www.fluzostudios.com/WebEn/the-promise/))."
               }
             ],
             "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Unity3D",
+                "type": "technology"
+              },
+              {
+                "name": "artificial-intelligence",
+                "type": "technology"
+              },
+              {
+                "name": "game-design",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UNED",
+          "image": {
+            "alt": "UNED",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7cedd4dd-07f5-4b7f-84c9-e8cb22a9528e_eg0l53eohnmap5sxzght.png"
+          },
+          "URL": "http://www.uned.es"
+        },
+        "roles": [
+          {
+            "name": "Gamification Researcher / Agile evangelist / Software Artisan",
+            "startDate": "2013-02-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Helped the Psychology faculty to migrate from an almost non-technical environment, introducing new technologies, best practices and agile methodologies.\n\nResearch & development of serious games to be used in social experiments and surveys. Improvement of the current software and results until getting new research contracts with the ARTIS Research & Risk Modeling institution (artisresearch.com). Collaborating with UNED Madrid, Oxford University and UAB (Universidad Autónoma de Barcelona).\n\nDevelopment of a fully functional game engine ([http://dev.neverbot.com/okinawa.js/](http://dev.neverbot.com/okinawa.js/)) for javascript & HTML5 web-games. Development of highly dynamic surveys with meteor.js, being used with kids in schools."
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
               {
                 "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
+                "name": "Meteor",
                 "type": "technology"
               },
               {
-                "name": "Express",
+                "name": "game-engine",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "okinawa.js",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "alt": "BBVA",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/62eedd50-743d-4318-bd8e-e74efe86c001_lnw8etyn9vjlxe71dp53.png"
+          },
+          "URL": "http://www.bbva.com/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager / Scrum Master / Agile evangelist",
+            "startDate": "2012-01-01",
+            "finishDate": "2012-09-30",
+            "challenges": [
+              {
+                "description": "Scrum Master in BBVA, helping with the full migration of the retail banking platform to a new technology stack, and introducing the scrum methodology at the core of the bank digital transformation process. Management of five different teams (up to 30 front and backend developers)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
                 "type": "technology"
               },
+              {
+                "name": "scrum",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acceso"
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2011-09-01",
+            "finishDate": "2012-01-31",
+            "challenges": [
+              {
+                "description": "Project manager of a small team hired to improve the client platform used to obtain corporate reputation metrics and perform market research, using the scrum methodology."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Doctrine",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PRISA",
+          "image": {
+            "alt": "PRISA",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fa1d282b-70ba-4798-a215-7bcf7ad9be07_odyfdhsjvvvmxzveneto.png"
+          },
+          "URL": "http://www.prisa.com"
+        },
+        "roles": [
+          {
+            "name": "Project Manager / Software Developer",
+            "startDate": "2011-05-01",
+            "finishDate": "2011-09-30",
+            "challenges": [
+              {
+                "description": "Project Manager in Planeo (Grupo Prisa), producing and developing the viral platform used during the launch of planeo.es. Extreme programming methodology (XP) for two months, followed up by maintenance and monitoring during the successful viral stage of the platform, and its internationalization to Portugal."
+              }
+            ],
+            "competences": [
               {
                 "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "sngular",
+          "image": {
+            "alt": "sngular",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f6e03256-1d4a-487f-9b9d-166826000653_avbt15pn7hfglxx9rzgp.jpg"
+          },
+          "URL": "http://sngular.team/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager / Scrum Master",
+            "startDate": "2010-08-01",
+            "finishDate": "2012-10-31",
+            "challenges": [
+              {
+                "description": "Being part of the company for a second time, coming back to a project management position. Collaborating with different clients, introducing agile methodologies and improving results in various industries: banking, e-commerce and R+D.\n\n*   2012: Scrum Master in BBVA, managing five different teams (up to 30 front and backend developers).\n*   2011/12: Project Manager in Acceso, improving the client platform used to obtain corporate reputation metrics and perform market research.\n*   2011: Project Manager in Planeo (Grupo Prisa), producing the viral platform used during the launch of planeo.es.\n*   2010/11: Project Manager of several mobility projects developed by different external providers in BBVA, using agile methodologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-ses",
+                "type": "technology"
+              },
+              {
+                "name": "scrum",
+                "type": "technology"
+              },
+              {
+                "name": "scrummaster",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "alt": "BBVA",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/22bf9088-a6d6-4f8c-a144-fa90ecdc1a15_lnw8etyn9vjlxe71dp53.png"
+          },
+          "URL": "http://www.bbva.com"
+        },
+        "roles": [
+          {
+            "name": "Agile Project Manager",
+            "startDate": "2010-04-01",
+            "finishDate": "2011-05-31",
+            "challenges": [
+              {
+                "description": "Remote Channels and Mobility Area: Project Manager of several mobility projects developed by different external providers in BBVA, using agile methodologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "scrum",
                 "type": "technology"
               }
             ]
@@ -326,237 +579,18 @@
       },
       {
         "organization": {
-          "name": "Fluzo Studio",
+          "name": "CeSViMa",
           "image": {
-            "alt": "Fluzo Studio",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f0e71651-dac8-4064-84e8-2e99593ce73c_6c7c080526f46bfbce6b.png"
+            "alt": "CeSViMa",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad547581-481a-4c6a-953b-97d105a75af2_wkxgs.png"
           },
-          "URL": "http://fluzostudios.com/web"
+          "URL": "http://www.cesvima.upm.es/"
         },
         "roles": [
           {
-            "name": "Game Developer / Game Designer",
-            "startDate": "2013-05-01",
-            "finishDate": "2013-07-31",
-            "challenges": [
-              {
-                "description": "Artificial Intelligence / Behaviour designer and developer in the pre-production demo of The Promise ([http://www.fluzostudios.com/WebEn/the-promise/](http://www.fluzostudios.com/WebEn/the-promise/))."
-              }
-            ],
-            "competences": [
-              {
-                "name": "game-design",
-                "type": "technology"
-              },
-              {
-                "name": "artificial-intelligence",
-                "type": "technology"
-              },
-              {
-                "name": "Unity3D",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "PRISA",
-          "image": {
-            "alt": "PRISA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fa1d282b-70ba-4798-a215-7bcf7ad9be07_odyfdhsjvvvmxzveneto.png"
-          },
-          "URL": "http://www.prisa.com"
-        },
-        "roles": [
-          {
-            "name": "Project Manager / Software Developer",
-            "startDate": "2011-05-01",
-            "finishDate": "2011-09-30",
-            "challenges": [
-              {
-                "description": "Project Manager in Planeo (Grupo Prisa), producing and developing the viral platform used during the launch of planeo.es. Extreme programming methodology (XP) for two months, followed up by maintenance and monitoring during the successful viral stage of the platform, and its internationalization to Portugal."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Amazon SQS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "UNED",
-          "image": {
-            "alt": "UNED",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7cedd4dd-07f5-4b7f-84c9-e8cb22a9528e_eg0l53eohnmap5sxzght.png"
-          },
-          "URL": "http://www.uned.es"
-        },
-        "roles": [
-          {
-            "name": "Gamification Researcher / Agile evangelist / Software Artisan",
-            "startDate": "2013-02-01",
-            "finishDate": "2014-06-30",
-            "challenges": [
-              {
-                "description": "Helped the Psychology faculty to migrate from an almost non-technical environment, introducing new technologies, best practices and agile methodologies.\n\nResearch & development of serious games to be used in social experiments and surveys. Improvement of the current software and results until getting new research contracts with the ARTIS Research & Risk Modeling institution (artisresearch.com). Collaborating with UNED Madrid, Oxford University and UAB (Universidad Autónoma de Barcelona).\n\nDevelopment of a fully functional game engine ([http://dev.neverbot.com/okinawa.js/](http://dev.neverbot.com/okinawa.js/)) for javascript & HTML5 web-games. Development of highly dynamic surveys with meteor.js, being used with kids in schools."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Meteor",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "okinawa.js",
-                "type": "technology"
-              },
-              {
-                "name": "game-engine",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "sngular",
-          "image": {
-            "alt": "sngular",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f6e03256-1d4a-487f-9b9d-166826000653_avbt15pn7hfglxx9rzgp.jpg"
-          },
-          "URL": "http://sngular.team/"
-        },
-        "roles": [
-          {
-            "name": "Project Manager / Scrum Master",
-            "startDate": "2010-08-01",
-            "finishDate": "2012-10-31",
-            "challenges": [
-              {
-                "description": "Being part of the company for a second time, coming back to a project management position. Collaborating with different clients, introducing agile methodologies and improving results in various industries: banking, e-commerce and R+D.\n\n*   2012: Scrum Master in BBVA, managing five different teams (up to 30 front and backend developers).\n*   2011/12: Project Manager in Acceso, improving the client platform used to obtain corporate reputation metrics and perform market research.\n*   2011: Project Manager in Planeo (Grupo Prisa), producing the viral platform used during the launch of planeo.es.\n*   2010/11: Project Manager of several mobility projects developed by different external providers in BBVA, using agile methodologies."
-              }
-            ],
-            "competences": [
-              {
-                "name": "scrum",
-                "type": "technology"
-              },
-              {
-                "name": "scrummaster",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-ses",
-                "type": "technology"
-              },
-              {
-                "name": "Amazon SQS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Universitat Pompeu Fabra",
-          "image": {
-            "alt": "Universitat Pompeu Fabra",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1420232f-357e-4bd7-9547-ce7ada2e66c5_mnvdi.png"
-          },
-          "URL": "http://usquidesup.upf.edu"
-        },
-        "roles": [
-          {
-            "name": "Web Developer and Designer",
-            "startDate": "2004-02-01",
-            "finishDate": "2004-04-30",
-            "challenges": [
-              {
-                "description": "Web development. Information visualization and user interaction."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "BBVA",
-          "image": {
-            "alt": "BBVA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/22bf9088-a6d6-4f8c-a144-fa90ecdc1a15_lnw8etyn9vjlxe71dp53.png"
-          },
-          "URL": "http://www.bbva.com"
-        },
-        "roles": [
-          {
-            "name": "Agile Project Manager",
-            "startDate": "2010-04-01",
-            "finishDate": "2011-05-31",
-            "challenges": [
-              {
-                "description": "Remote Channels and Mobility Area: Project Manager of several mobility projects developed by different external providers in BBVA, using agile methodologies."
-              }
-            ],
-            "competences": [
-              {
-                "name": "scrum",
-                "type": "technology"
-              }
-            ]
+            "name": "Predoctoral Researcher",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-04-30"
           }
         ]
       },
@@ -581,11 +615,19 @@
             ],
             "competences": [
               {
-                "name": "scrum",
+                "name": ".NET",
                 "type": "technology"
               },
               {
                 "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
                 "type": "technology"
               },
               {
@@ -597,10 +639,6 @@
                 "type": "technology"
               },
               {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
                 "name": "iOS",
                 "type": "technology"
               },
@@ -609,43 +647,7 @@
                 "type": "technology"
               },
               {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": ".NET",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "BBVA",
-          "image": {
-            "alt": "BBVA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/62eedd50-743d-4318-bd8e-e74efe86c001_lnw8etyn9vjlxe71dp53.png"
-          },
-          "URL": "http://www.bbva.com/"
-        },
-        "roles": [
-          {
-            "name": "Project Manager / Scrum Master / Agile evangelist",
-            "startDate": "2012-01-01",
-            "finishDate": "2012-09-30",
-            "challenges": [
-              {
-                "description": "Scrum Master in BBVA, helping with the full migration of the retail banking platform to a new technology stack, and introducing the scrum methodology at the core of the bank digital transformation process. Management of five different teams (up to 30 front and backend developers)."
-              }
-            ],
-            "competences": [
-              {
                 "name": "scrum",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
                 "type": "technology"
               }
             ]
@@ -710,6 +712,42 @@
       },
       {
         "organization": {
+          "name": "Universitat Pompeu Fabra",
+          "image": {
+            "alt": "Universitat Pompeu Fabra",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1420232f-357e-4bd7-9547-ce7ada2e66c5_mnvdi.png"
+          },
+          "URL": "http://usquidesup.upf.edu"
+        },
+        "roles": [
+          {
+            "name": "Web Developer and Designer",
+            "startDate": "2004-02-01",
+            "finishDate": "2004-04-30",
+            "challenges": [
+              {
+                "description": "Web development. Information visualization and user interaction."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad Carlos III de Madrid",
           "image": {
             "alt": "Universidad Carlos III de Madrid",
@@ -729,75 +767,9 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "House of Maldorne",
-          "image": {
-            "alt": "House of Maldorne",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/524a8faa-aa00-4d04-a1b2-43ca32f030ec_c0p2o.png"
-          },
-          "URL": "https://maldorne.org/"
-        },
-        "roles": [
-          {
-            "name": "(nonprofit) Lead Game Designer",
-            "startDate": "2003-01-01",
-            "challenges": [
-              {
-                "description": "Lead Game Designer in the nonprofit retro online game Ciudad Capital, part of the House of Maldorne organization.\n\n*   World Building\n*   Writing technical documentation\n*   Training of new game designers\n*   Development, testing and evolution of new mechanics\n*   End of degree project based on the world building tools developed\n*   Ph. D. Thesis (being written) based on the procedural content generation tools developed"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CeSViMa",
-          "image": {
-            "alt": "CeSViMa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad547581-481a-4c6a-953b-97d105a75af2_wkxgs.png"
-          },
-          "URL": "http://www.cesvima.upm.es/"
-        },
-        "roles": [
-          {
-            "name": "Predoctoral Researcher",
-            "startDate": "2010-01-01",
-            "finishDate": "2010-04-30"
-          }
-        ]
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "okinawa.js",
-          "description": "javascript 2D game engine over html5-canvas",
-          "URL": "https://github.com/neverbot/okinawa.js",
-          "image": {
-            "alt": "okinawa_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ef17b9ca-2951-4d41-a5d8-6c14dd5e3f0a_okinawa_logo.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-02-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "details": {
           "name": "Hexagon",
@@ -818,9 +790,36 @@
       },
       {
         "details": {
+          "name": "okinawa.js",
+          "description": "javascript 2D game engine over html5-canvas",
+          "URL": "https://github.com/neverbot/okinawa.js",
+          "image": {
+            "alt": "okinawa_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ef17b9ca-2951-4d41-a5d8-6c14dd5e3f0a_okinawa_logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-02-01",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Koma Project",
-          "description": "Development of a 3D videogame for the Art Futura 2004 festival. Project awarded with the Mention for Best Technology of the festival.",
-          "URL": ""
+          "description": "Development of a 3D videogame for the Art Futura 2004 festival. Project awarded with the Mention for Best Technology of the festival."
         },
         "type": "sideProject",
         "roles": [
@@ -848,55 +847,53 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master's degree in Videogame Design and Development",
-        "startDate": "2003-01-01",
-        "finishDate": "2004-01-01",
-        "institution": {
-          "name": "Universitat Pompeu i Fabra",
-          "description": "End of degree project awarded with the Mention for Best Technology of the ArtFutura 2004 festival.",
-          "URL": "http://www.upf.edu",
-          "image": {
-            "alt": "50ed58bf-66df-ef68-e34e-ac1b3983c2f7.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f21a5c1-ef0b-4662-9fc3-ec04e6a6e42e_50ed58bf-66df-ef68-e.png"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Int. Artificial Intelligence",
-        "startDate": "2011-01-01",
-        "finishDate": "2012-01-01",
-        "institution": {
-          "name": "Stanford University",
-          "description": "Online advanced track by Peter Norvig and Sebastian Thrun at Stanford University, 86.2% grade.\n\nTaught on an online platform which became the genesis of Udacity and the origin of mooc education.",
-          "URL": "http://web.stanford.edu",
-          "image": {
-            "alt": "Stanford-University-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/110421c5-0d72-47de-aa79-48d4203bfa9d_stanford-university-.png"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Engineer's degree (BSc and MSc), Ingeniería Superior Informática",
-        "startDate": "1997-09-01",
-        "finishDate": "2005-09-30",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "description": "Five years degree in Information Technology. End of degree project in the game design and game development fields, graduated with honors.",
-          "URL": "http://www.upm.es",
-          "image": {
-            "alt": "politecnica-madrid-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/1d2ab7ed-6f1b-46f0-b3bb-0271738e60d8_politecnica-madrid-l.png"
-          }
-        }
-      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
@@ -921,11 +918,58 @@
         "finishDate": "2013-01-01",
         "institution": {
           "name": "UNED",
-          "description": "",
           "URL": "http://www.uned.es",
           "image": {
             "alt": "logo-UNED.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ff335203-67ec-4348-b49e-a2f1014ca353_logo-uned.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Int. Artificial Intelligence",
+        "startDate": "2011-01-01",
+        "finishDate": "2012-01-01",
+        "institution": {
+          "name": "Stanford University",
+          "description": "Online advanced track by Peter Norvig and Sebastian Thrun at Stanford University, 86.2% grade.\n\nTaught on an online platform which became the genesis of Udacity and the origin of mooc education.",
+          "URL": "http://web.stanford.edu",
+          "image": {
+            "alt": "Stanford-University-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/110421c5-0d72-47de-aa79-48d4203bfa9d_stanford-university-.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree in Videogame Design and Development",
+        "startDate": "2003-01-01",
+        "finishDate": "2004-01-01",
+        "institution": {
+          "name": "Universitat Pompeu i Fabra",
+          "description": "End of degree project awarded with the Mention for Best Technology of the ArtFutura 2004 festival.",
+          "URL": "http://www.upf.edu",
+          "image": {
+            "alt": "50ed58bf-66df-ef68-e34e-ac1b3983c2f7.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f21a5c1-ef0b-4662-9fc3-ec04e6a6e42e_50ed58bf-66df-ef68-e.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Engineer's degree (BSc and MSc), Ingeniería Superior Informática",
+        "startDate": "1997-09-01",
+        "finishDate": "2005-09-30",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Five years degree in Information Technology. End of degree project in the game design and game development fields, graduated with honors.",
+          "URL": "http://www.upm.es",
+          "image": {
+            "alt": "politecnica-madrid-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/1d2ab7ed-6f1b-46f0-b3bb-0271738e60d8_politecnica-madrid-l.png"
           }
         }
       }
@@ -943,15 +987,15 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
         {
           "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "Go",
           "type": "technology"
         }
       ]
