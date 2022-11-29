@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/98886669-18ff-468d-9543-af87085e99f1_photo_2022-02-22-16.jpeg"
       },
       "location": {
-        "notes": "Madrid, ES"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -619,6 +621,10 @@
                 "type": "technology"
               },
               {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
                 "name": "C#",
                 "type": "technology"
               },
@@ -636,10 +642,6 @@
               },
               {
                 "name": "excel-plugin",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
                 "type": "technology"
               },
               {
@@ -774,7 +776,7 @@
         "details": {
           "name": "Hexagon",
           "description": "A project to make old MudOS-alike mud libraries work with a modern DGD mud driver.",
-          "URL": "https://github.com/houseofmaldorne/hexagon",
+          "URL": "https://github.com/maldorne/hexagon",
           "image": {
             "alt": "hexagon_logo.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/dd04db13-fab9-4f2a-b3a8-ad41f89c1068_hexagon_logo.png"
@@ -864,25 +866,25 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "Laravel",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -998,6 +1000,14 @@
           "name": "NodeJS",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Project Manager & Delivery Manager",
+        "Scrum Master & Agile Coach",
+        "Software Architect",
+        "Tech Lead"
       ]
     }
   }
