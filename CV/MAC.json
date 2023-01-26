@@ -239,16 +239,20 @@
       },
       {
         "organization": {
-          "name": "Billionlabs"
+          "name": "Billionlabs",
+          "image": {
+            "alt": "1519864944895.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/26/3d703512-377f-4ca9-9698-de0ac3209b10_1519864944895.jpg"
+          }
         },
         "roles": [
           {
-            "name": "Agile Project Manager / Software Artisan",
+            "name": "Project Manager / Software Artisan",
             "startDate": "2014-07-01",
             "finishDate": "2016-10-31",
             "challenges": [
               {
-                "description": "Helping start-ups and e-commerce companies to make the magic happen. Technical project management, requirement analysis and software development of various projects, making the company grow until acquisition by the Sngular Group.\n\n*   2015/16: pixie.es: programming learning site, teaching programming to kids with videogames and visual code blocks; using multiple game engines and Google Blockly. Currently part of the Telefónica/Wayra \"Gran Vía Open Future\\_\" program.\n*   2016: sngular.team: internal CMS developed from scratch with job portal, personal blogs, company news, etc.\n*   2016: multiple e-commerce sites (enviocoronas.com, nac.es).\n*   2015: lolamarket.com: multi-market grocery delivery service with personal shoppers.\n*   2014: ticdomestic.com: vertical employment portal."
+                "description": "Helping start-ups and e-commerce companies to make the magic happen. Technical project management, requirement analysis and software development of various projects, making the company grow until acquisition by the Sngular Group.\n\n* 2015/16: pixie.es: programming learning site, teaching programming to kids with videogames and visual code blocks; using multiple game engines and Google Blockly. Currently part of the Telefónica/Wayra \"Gran Vía Open Future\\_\" program.\n* 2016: sngular.team: internal CMS developed from scratch with job portal, personal blogs, company news, etc.\n* 2016: multiple e-commerce sites (enviocoronas.com, nac.es).\n* 2015: lolamarket.com: multi-market grocery delivery service with personal shoppers.\n* 2014: ticdomestic.com: vertical employment portal."
               }
             ],
             "competences": [
