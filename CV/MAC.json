@@ -200,7 +200,7 @@
         },
         "roles": [
           {
-            "name": "Agile Project Manager / Software Artisan",
+            "name": "Project Manager / Software Artisan",
             "startDate": "2015-07-01",
             "finishDate": "2016-10-31",
             "challenges": [
@@ -227,10 +227,6 @@
               },
               {
                 "name": "Vagrant",
-                "type": "technology"
-              },
-              {
-                "name": "blockly",
                 "type": "technology"
               },
               {
