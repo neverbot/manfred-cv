@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,34 +11,16 @@
       "title": "Software Artisan and Imaginaut",
       "description": "The automated summary that LinkedIn created for me said: \"Experienced Project Manager with a demonstrated history of working in the internet industry\", so it must be true.\n\nSenior professional with 20 years of experience in software development in different fields: consulting, e-commerce, start-ups, academic research, R+D and videogames, half of them in hands-on project management roles.",
       "avatar": {
-        "alt": "photo_2022-02-22 16.52.14.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/98886669-18ff-468d-9543-af87085e99f1_photo_2022-02-22-16.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/98886669-18ff-468d-9543-af87085e99f1_photo_2022-02-22-16.jpeg",
+        "alt": "photo_2022-02-22 16.52.14.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/neverbot"
-      },
-      {
-        "type": "other",
-        "URL": "https://neverbot.com"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/neverbot"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ivanalonso/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "First computer",
@@ -48,6 +30,12 @@
         "topic": "Favorite editor",
         "fact": "Sublime Text"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://neverbot.com"
+      }
     ]
   },
   "experience": {
@@ -56,8 +44,8 @@
         "organization": {
           "name": "GameLearn",
           "image": {
-            "alt": "GameLearn",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3c4e66bf-458a-4e3b-b8bd-9d5e0dba2d91_re7sq.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3c4e66bf-458a-4e3b-b8bd-9d5e0dba2d91_re7sq.jpg",
+            "alt": "GameLearn"
           },
           "URL": "https://www.game-learn.com/"
         },
@@ -97,31 +85,10 @@
       },
       {
         "organization": {
-          "name": "House of Maldorne",
-          "image": {
-            "alt": "House of Maldorne",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/524a8faa-aa00-4d04-a1b2-43ca32f030ec_c0p2o.png"
-          },
-          "URL": "https://maldorne.org/"
-        },
-        "roles": [
-          {
-            "name": "(nonprofit) Lead Game Designer",
-            "startDate": "2003-01-01",
-            "challenges": [
-              {
-                "description": "Lead Game Designer in the nonprofit retro online game Ciudad Capital, part of the House of Maldorne organization.\n\n*   World Building\n*   Writing technical documentation\n*   Training of new game designers\n*   Development, testing and evolution of new mechanics\n*   End of degree project based on the world building tools developed\n*   Ph. D. Thesis (being written) based on the procedural content generation tools developed"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Crowdfarming",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6e1bb113-c9ed-4edb-a32e-7577b1f45c04_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6e1bb113-c9ed-4edb-a32e-7577b1f45c04_logo.png",
+            "alt": "logo.png"
           }
         },
         "roles": [
@@ -194,8 +161,8 @@
         "organization": {
           "name": "sngular",
           "image": {
-            "alt": "sngular",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/167208f3-0d88-46e6-8a87-c685eb13707c_avbt15pn7hfglxx9rzgp.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/167208f3-0d88-46e6-8a87-c685eb13707c_avbt15pn7hfglxx9rzgp.jpg",
+            "alt": "sngular"
           },
           "URL": "http://sngular.team/"
         },
@@ -242,8 +209,8 @@
         "organization": {
           "name": "Billionlabs",
           "image": {
-            "alt": "1519864944895.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/26/3d703512-377f-4ca9-9698-de0ac3209b10_1519864944895.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/26/3d703512-377f-4ca9-9698-de0ac3209b10_1519864944895.jpg",
+            "alt": "1519864944895.jpg"
           }
         },
         "roles": [
@@ -289,8 +256,8 @@
         "organization": {
           "name": "Fluzo Studio",
           "image": {
-            "alt": "Fluzo Studio",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f0e71651-dac8-4064-84e8-2e99593ce73c_6c7c080526f46bfbce6b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f0e71651-dac8-4064-84e8-2e99593ce73c_6c7c080526f46bfbce6b.png",
+            "alt": "Fluzo Studio"
           },
           "URL": "http://fluzostudios.com/web"
         },
@@ -329,8 +296,8 @@
         "organization": {
           "name": "UNED",
           "image": {
-            "alt": "UNED",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7cedd4dd-07f5-4b7f-84c9-e8cb22a9528e_eg0l53eohnmap5sxzght.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7cedd4dd-07f5-4b7f-84c9-e8cb22a9528e_eg0l53eohnmap5sxzght.png",
+            "alt": "UNED"
           },
           "URL": "http://www.uned.es"
         },
@@ -341,7 +308,7 @@
             "finishDate": "2014-06-30",
             "challenges": [
               {
-                "description": "Helped the Psychology faculty to migrate from an almost non-technical environment, introducing new technologies, best practices and agile methodologies.\n\nResearch & development of serious games to be used in social experiments and surveys. Improvement of the current software and results until getting new research contracts with the ARTIS Research & Risk Modeling institution (artisresearch.com). Collaborating with UNED Madrid, Oxford University and UAB (Universidad Autónoma de Barcelona).\n\nDevelopment of a fully functional game engine ([http://dev.neverbot.com/okinawa.js/](http://dev.neverbot.com/okinawa.js/)) for javascript & HTML5 web-games. Development of highly dynamic surveys with meteor.js, being used with kids in schools."
+                "description": "Helped the Psychology faculty to migrate from an almost non-technical environment, introducing new technologies, best practices and agile methodologies.\n\nResearch & development of serious games to be used in social experiments and surveys. Improvement of the current software and results until getting new research contracts with the ARTIS Research & Risk Modeling institution (artisresearch.com). Collaborating with UNED Madrid, Oxford University and UAB (Universidad Autónoma de Barcelona).\n\nDevelopment of a fully functional game engine ([https://dev.neverbot.com/okinawa-asteroids/](https://dev.neverbot.com/okinawa-asteroids/)) for javascript & HTML5 web-games. Development of highly dynamic surveys with meteor.js, being used with kids in schools."
               }
             ],
             "competences": [
@@ -373,8 +340,8 @@
         "organization": {
           "name": "BBVA",
           "image": {
-            "alt": "BBVA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/62eedd50-743d-4318-bd8e-e74efe86c001_lnw8etyn9vjlxe71dp53.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/62eedd50-743d-4318-bd8e-e74efe86c001_lnw8etyn9vjlxe71dp53.png",
+            "alt": "BBVA"
           },
           "URL": "http://www.bbva.com/"
         },
@@ -405,8 +372,8 @@
         "organization": {
           "name": "Acceso",
           "image": {
-            "alt": "index.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/26/765698ea-c0a0-4ab8-9c77-76680b8e0596_index.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/26/765698ea-c0a0-4ab8-9c77-76680b8e0596_index.png",
+            "alt": "index.png"
           }
         },
         "roles": [
@@ -436,8 +403,8 @@
         "organization": {
           "name": "PRISA",
           "image": {
-            "alt": "PRISA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fa1d282b-70ba-4798-a215-7bcf7ad9be07_odyfdhsjvvvmxzveneto.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fa1d282b-70ba-4798-a215-7bcf7ad9be07_odyfdhsjvvvmxzveneto.png",
+            "alt": "PRISA"
           },
           "URL": "http://www.prisa.com"
         },
@@ -472,8 +439,8 @@
         "organization": {
           "name": "sngular",
           "image": {
-            "alt": "sngular",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f6e03256-1d4a-487f-9b9d-166826000653_avbt15pn7hfglxx9rzgp.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f6e03256-1d4a-487f-9b9d-166826000653_avbt15pn7hfglxx9rzgp.jpg",
+            "alt": "sngular"
           },
           "URL": "http://sngular.team/"
         },
@@ -524,8 +491,8 @@
         "organization": {
           "name": "BBVA",
           "image": {
-            "alt": "BBVA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/22bf9088-a6d6-4f8c-a144-fa90ecdc1a15_lnw8etyn9vjlxe71dp53.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/22bf9088-a6d6-4f8c-a144-fa90ecdc1a15_lnw8etyn9vjlxe71dp53.png",
+            "alt": "BBVA"
           },
           "URL": "http://www.bbva.com"
         },
@@ -550,10 +517,27 @@
       },
       {
         "organization": {
+          "name": "CeSViMa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad547581-481a-4c6a-953b-97d105a75af2_wkxgs.png",
+            "alt": "CeSViMa"
+          },
+          "URL": "http://www.cesvima.upm.es/"
+        },
+        "roles": [
+          {
+            "name": "Predoctoral Researcher",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-04-30"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad Politécnica de Madrid",
           "image": {
-            "alt": "Universidad Politécnica de Madrid",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9e976565-3a25-43e4-9ce3-c9ea4e1b917d_gxxxs.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9e976565-3a25-43e4-9ce3-c9ea4e1b917d_gxxxs.jpg",
+            "alt": "Universidad Politécnica de Madrid"
           },
           "URL": "http://www.upm.es"
         },
@@ -586,32 +570,10 @@
       },
       {
         "organization": {
-          "name": "CeSViMa",
-          "image": {
-            "alt": "CeSViMa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad547581-481a-4c6a-953b-97d105a75af2_wkxgs.png"
-          },
-          "URL": "http://www.cesvima.upm.es/"
-        },
-        "roles": [
-          {
-            "name": "Predoctoral Researcher",
-            "startDate": "2010-01-01",
-            "finishDate": "2010-04-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "MediaNet Software",
           "image": {
-            "alt": "MediaNet Software",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/589bb528-b3d5-4452-82df-adf90cd1491c_dd03c08189fbe0d02476.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/589bb528-b3d5-4452-82df-adf90cd1491c_dd03c08189fbe0d02476.png",
+            "alt": "MediaNet Software"
           },
           "URL": "http://www.medianetsoftware.com/"
         },
@@ -670,8 +632,8 @@
         "organization": {
           "name": "Goal Systems",
           "image": {
-            "alt": "Goal Systems",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/abac0681-5d6f-47af-ab3b-36b2c19f1c7a_bl4sx.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/abac0681-5d6f-47af-ab3b-36b2c19f1c7a_bl4sx.png",
+            "alt": "Goal Systems"
           },
           "URL": "http://www.goalsystems.com/"
         },
@@ -698,8 +660,8 @@
         "organization": {
           "name": "Recreativos Franco",
           "image": {
-            "alt": "Recreativos Franco",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6a89bbbb-ba79-4cbf-a193-fc211397be79_pdhq3.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6a89bbbb-ba79-4cbf-a193-fc211397be79_pdhq3.jpg",
+            "alt": "Recreativos Franco"
           },
           "URL": "http://www.rfranco.com/"
         },
@@ -726,8 +688,8 @@
         "organization": {
           "name": "Universitat Pompeu Fabra",
           "image": {
-            "alt": "Universitat Pompeu Fabra",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1420232f-357e-4bd7-9547-ce7ada2e66c5_mnvdi.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1420232f-357e-4bd7-9547-ce7ada2e66c5_mnvdi.png",
+            "alt": "Universitat Pompeu Fabra"
           },
           "URL": "http://usquidesup.upf.edu"
         },
@@ -760,10 +722,31 @@
       },
       {
         "organization": {
+          "name": "House of Maldorne",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/524a8faa-aa00-4d04-a1b2-43ca32f030ec_c0p2o.png",
+            "alt": "House of Maldorne"
+          },
+          "URL": "https://maldorne.org/"
+        },
+        "roles": [
+          {
+            "name": "(nonprofit) Lead Game Designer",
+            "startDate": "2003-01-01",
+            "challenges": [
+              {
+                "description": "Lead Game Designer in the nonprofit retro online game Ciudad Capital, part of the House of Maldorne organization.\n\n*   World Building\n*   Writing technical documentation\n*   Training of new game designers\n*   Development, testing and evolution of new mechanics\n*   End of degree project based on the world building tools developed\n*   Ph. D. Thesis (being written) based on the procedural content generation tools developed"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad Carlos III de Madrid",
           "image": {
-            "alt": "Universidad Carlos III de Madrid",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1e958942-7955-4372-9131-a39fcb8a0cc7_q5hb0.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1e958942-7955-4372-9131-a39fcb8a0cc7_q5hb0.jpg",
+            "alt": "Universidad Carlos III de Madrid"
           },
           "URL": "http://www.uc3m.es/"
         },
@@ -784,12 +767,40 @@
     "projects": [
       {
         "details": {
+          "name": "Koma Project",
+          "description": "Development of a 3D videogame for the Art Futura 2004 festival. Project awarded with the Mention for Best Technology of the festival."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2004-05-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Lua",
+                "type": "technology"
+              },
+              {
+                "name": "OpenGL",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2004-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hexagon",
           "description": "A project to make old MudOS-alike mud libraries work with a modern DGD mud driver.",
           "URL": "https://github.com/maldorne/hexagon",
           "image": {
-            "alt": "hexagon_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/dd04db13-fab9-4f2a-b3a8-ad41f89c1068_hexagon_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/dd04db13-fab9-4f2a-b3a8-ad41f89c1068_hexagon_logo.png",
+            "alt": "hexagon_logo.png"
           }
         },
         "type": "openSource",
@@ -806,8 +817,8 @@
           "description": "javascript 2D game engine over html5-canvas",
           "URL": "https://github.com/neverbot/okinawa.js",
           "image": {
-            "alt": "okinawa_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ef17b9ca-2951-4d41-a5d8-6c14dd5e3f0a_okinawa_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ef17b9ca-2951-4d41-a5d8-6c14dd5e3f0a_okinawa_logo.png",
+            "alt": "okinawa_logo.png"
           }
         },
         "type": "openSource",
@@ -827,52 +838,30 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Koma Project",
-          "description": "Development of a 3D videogame for the Art Futura 2004 festival. Project awarded with the Mention for Best Technology of the festival."
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2004-05-01",
-            "finishDate": "2004-09-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Lua",
-                "type": "technology"
-              },
-              {
-                "name": "OpenGL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -890,19 +879,13 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "PHP",
           "type": "technology"
         }
       }
@@ -911,81 +894,100 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ph.D. Student (on hold)",
-        "startDate": "2015-10-01",
-        "finishDate": "2015-10-01",
+        "name": "Engineer's degree (BSc and MSc), Ingeniería Superior Informática",
+        "startDate": "1997-09-01",
         "institution": {
           "name": "Universidad Politécnica de Madrid",
-          "description": "Currently writing (in my little free time) my Ph.D. thesis in the fields of game design and procedural content generation. ",
+          "description": "Five years degree in Information Technology. End of degree project in the game design and game development fields, graduated with honors.",
           "URL": "http://www.upm.es",
           "image": {
-            "alt": "politecnica-madrid-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f5c6e66-6d63-403e-b3ba-7959d4c1290b_politecnica-madrid-l.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/1d2ab7ed-6f1b-46f0-b3bb-0271738e60d8_politecnica-madrid-l.png",
+            "alt": "politecnica-madrid-logo.png"
           }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master of Engineering (MEng), Advanced Artificial Intelligence (unfinished)",
-        "startDate": "2012-01-01",
-        "finishDate": "2013-01-01",
-        "institution": {
-          "name": "UNED",
-          "description": "",
-          "URL": "http://www.uned.es",
-          "image": {
-            "alt": "logo-UNED.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ff335203-67ec-4348-b49e-a2f1014ca353_logo-uned.jpg"
-          }
-        }
+        },
+        "finishDate": "2005-09-30"
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Int. Artificial Intelligence",
         "startDate": "2011-01-01",
-        "finishDate": "2012-01-01",
         "institution": {
           "name": "Stanford University",
           "description": "Online advanced track by Peter Norvig and Sebastian Thrun at Stanford University, 86.2% grade.\n\nTaught on an online platform which became the genesis of Udacity and the origin of mooc education.",
           "URL": "http://web.stanford.edu",
           "image": {
-            "alt": "Stanford-University-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/110421c5-0d72-47de-aa79-48d4203bfa9d_stanford-university-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/110421c5-0d72-47de-aa79-48d4203bfa9d_stanford-university-.png",
+            "alt": "Stanford-University-logo.png"
           }
-        }
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Engineering (MEng), Advanced Artificial Intelligence (unfinished)",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "UNED",
+          "URL": "http://www.uned.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ff335203-67ec-4348-b49e-a2f1014ca353_logo-uned.jpg",
+            "alt": "logo-UNED.jpg"
+          }
+        },
+        "finishDate": "2013-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree in Videogame Design and Development",
         "startDate": "2003-01-01",
-        "finishDate": "2004-01-01",
         "institution": {
           "name": "Universitat Pompeu i Fabra",
           "description": "End of degree project awarded with the Mention for Best Technology of the ArtFutura 2004 festival.",
           "URL": "http://www.upf.edu",
           "image": {
-            "alt": "50ed58bf-66df-ef68-e34e-ac1b3983c2f7.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f21a5c1-ef0b-4662-9fc3-ec04e6a6e42e_50ed58bf-66df-ef68-e.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f21a5c1-ef0b-4662-9fc3-ec04e6a6e42e_50ed58bf-66df-ef68-e.png",
+            "alt": "50ed58bf-66df-ef68-e34e-ac1b3983c2f7.png"
           }
-        }
+        },
+        "finishDate": "2004-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Engineer's degree (BSc and MSc), Ingeniería Superior Informática",
-        "startDate": "1997-09-01",
-        "finishDate": "2005-09-30",
+        "name": "Ph.D. Student (on hold)",
+        "startDate": "2015-10-01",
         "institution": {
           "name": "Universidad Politécnica de Madrid",
-          "description": "Five years degree in Information Technology. End of degree project in the game design and game development fields, graduated with honors.",
+          "description": "Currently writing (in my little free time) my Ph.D. thesis in the fields of game design and procedural content generation. ",
           "URL": "http://www.upm.es",
           "image": {
-            "alt": "politecnica-madrid-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/1d2ab7ed-6f1b-46f0-b3bb-0271738e60d8_politecnica-madrid-l.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f5c6e66-6d63-403e-b3ba-7959d4c1290b_politecnica-madrid-l.png",
+            "alt": "politecnica-madrid-logo.png"
           }
+        },
+        "finishDate": "2015-10-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
         }
       }
     ]
@@ -994,8 +996,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/ivanalonso/"
+          "URL": "https://www.linkedin.com/in/ivanalonso/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/neverbot",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/neverbot",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "ivan@neverbot.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "645350934",
+          "countryCode": "+34"
         }
       ]
     },
@@ -1023,6 +1042,20 @@
         "Tech Lead"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Un trabajo donde el estado de flow fuera habitual (retador, realizable). Teletrabajo. Empresa no demasiado grande, en las empresas grandes es imposible tomar decisiones significativas.",
+    "projects": [
+      {
+        "name": "Hexagon"
+      },
+      {
+        "name": "Koma Project"
+      },
+      {
+        "name": "okinawa.js"
+      }
+    ]
   }
 }
