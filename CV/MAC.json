@@ -724,8 +724,8 @@
         "organization": {
           "name": "House of Maldorne",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/524a8faa-aa00-4d04-a1b2-43ca32f030ec_c0p2o.png",
-            "alt": "House of Maldorne"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/e660261e-070d-487f-82ac-f0f471dc0628_icon.png",
+            "alt": "icon.png"
           },
           "URL": "https://maldorne.org/"
         },
@@ -1001,11 +1001,11 @@
         },
         {
           "URL": "https://github.com/neverbot",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/neverbot",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
