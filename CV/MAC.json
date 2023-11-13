@@ -535,13 +535,18 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad547581-481a-4c6a-953b-97d105a75af2_wkxgs.png",
             "alt": "CeSViMa"
           },
-          "URL": "http://www.cesvima.upm.es/"
+          "URL": "http://www.cesvima.upm.es"
         },
         "roles": [
           {
             "name": "Predoctoral Researcher",
             "startDate": "2010-01-01",
-            "finishDate": "2010-04-30"
+            "finishDate": "2010-04-30",
+            "challenges": [
+              {
+                "description": "R+D+i (Research + Development + Innovation) in the supercomputing and biotechnology fields (Madrid supercomputing center, CeSViMa), in the Cajal-BlueBrain european project: Software development, feasibility studies, implementation of new work, management and documentation methodologies."
+              }
+            ]
           }
         ]
       },
