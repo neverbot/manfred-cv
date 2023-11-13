@@ -33,6 +33,18 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ivanalonso/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/neverbot"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/neverbot"
+      },
+      {
         "type": "other",
         "URL": "https://neverbot.com"
       }
@@ -767,34 +779,6 @@
     "projects": [
       {
         "details": {
-          "name": "Koma Project",
-          "description": "Development of a 3D videogame for the Art Futura 2004 festival. Project awarded with the Mention for Best Technology of the festival."
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2004-05-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Lua",
-                "type": "technology"
-              },
-              {
-                "name": "OpenGL",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2004-09-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Hexagon",
           "description": "A project to make old MudOS-alike mud libraries work with a modern DGD mud driver.",
           "URL": "https://github.com/maldorne/hexagon",
@@ -836,6 +820,34 @@
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Koma Project",
+          "description": "Development of a 3D videogame for the Art Futura 2004 festival. Project awarded with the Mention for Best Technology of the festival."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2004-05-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Lua",
+                "type": "technology"
+              },
+              {
+                "name": "OpenGL",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2004-09-01"
           }
         ]
       }
