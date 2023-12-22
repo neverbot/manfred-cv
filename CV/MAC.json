@@ -321,7 +321,7 @@
             "finishDate": "2014-06-30",
             "challenges": [
               {
-                "description": "Helped the Psychology faculty to migrate from an almost non-technical environment, introducing new technologies, best practices and agile methodologies.\n\nResearch & development of serious games to be used in social experiments and surveys. Improvement of the current software and results until getting new research contracts with the ARTIS Research & Risk Modeling institution (artisresearch.com). Collaborating with UNED Madrid, Oxford University and UAB (Universidad Autónoma de Barcelona).\n\nDevelopment of a fully functional game engine ([https://github.com/okinawajs/okinawa.js/](https://github.com/okinawajs/okinawa.js/)) for javascript & HTML5 web-games. Development of highly dynamic surveys with meteor.js, being used with kids in schools."
+                "description": "Helped the Psychology faculty to migrate from an almost non-technical environment, introducing new technologies, best practices and agile methodologies.\n\nResearch & development of serious games to be used in social experiments and surveys. Improvement of the current software and results until getting new research contracts with the ARTIS Research & Risk Modeling institution (artisresearch.com). Collaborating with UNED Madrid, Oxford University and UAB (Universidad Autónoma de Barcelona).\n\nDevelopment of a fully functional game engine ([https://github.com/okinawa-dev/okinawa.js/](https://github.com/okinawa-dev/okinawa.js/)) for javascript & HTML5 web-games. Development of highly dynamic surveys with meteor.js, being used with kids in schools."
               }
             ],
             "competences": [
