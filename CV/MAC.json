@@ -881,6 +881,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
           "type": "technology"
         }
@@ -894,6 +900,12 @@
       {
         "skill": {
           "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -1080,6 +1092,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Un trabajo donde el estado de flow fuera habitual (retador, realizable). Teletrabajo. Empresa no demasiado grande, en las empresas grandes es imposible tomar decisiones significativas.",
     "projects": [
       {
