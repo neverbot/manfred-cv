@@ -292,14 +292,6 @@
               {
                 "name": "Unity3D",
                 "type": "technology"
-              },
-              {
-                "name": "artificial-intelligence",
-                "type": "technology"
-              },
-              {
-                "name": "game-design",
-                "type": "technology"
               }
             ]
           }
@@ -336,14 +328,6 @@
               {
                 "name": "Meteor",
                 "type": "technology"
-              },
-              {
-                "name": "game-engine",
-                "type": "technology"
-              },
-              {
-                "name": "okinawa.js",
-                "type": "technology"
               }
             ]
           }
@@ -371,10 +355,6 @@
             "competences": [
               {
                 "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "scrum",
                 "type": "technology"
               }
             ]
@@ -483,18 +463,6 @@
               {
                 "name": "PHP",
                 "type": "technology"
-              },
-              {
-                "name": "amazon-ses",
-                "type": "technology"
-              },
-              {
-                "name": "scrum",
-                "type": "technology"
-              },
-              {
-                "name": "scrummaster",
-                "type": "technology"
               }
             ]
           }
@@ -517,12 +485,6 @@
             "challenges": [
               {
                 "description": "Remote Channels and Mobility Area: Project Manager of several mobility projects developed by different external providers in BBVA, using agile methodologies."
-              }
-            ],
-            "competences": [
-              {
-                "name": "scrum",
-                "type": "technology"
               }
             ]
           }
@@ -573,14 +535,6 @@
               {
                 "name": "Python",
                 "type": "technology"
-              },
-              {
-                "name": "itk",
-                "type": "technology"
-              },
-              {
-                "name": "vtk",
-                "type": "technology"
               }
             ]
           }
@@ -624,22 +578,6 @@
               },
               {
                 "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "autocad-plugin",
-                "type": "technology"
-              },
-              {
-                "name": "excel-plugin",
-                "type": "technology"
-              },
-              {
-                "name": "iphone",
-                "type": "technology"
-              },
-              {
-                "name": "scrum",
                 "type": "technology"
               }
             ]
