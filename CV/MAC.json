@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -960,19 +960,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
+          "name": "Attention to detail",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Atención al detalle",
+          "name": "Continuous learning",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Visión crítica",
+          "name": "Critical view",
           "type": "practice"
         }
       }
