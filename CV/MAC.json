@@ -54,6 +54,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "OWQLO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/06/22/d49b1414-874b-4f0a-a310-acf05fe74aaa_owqlo_logo.jpg",
+            "alt": "owqlo_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Backend Lead / Software Artisan",
+            "startDate": "2025-07-01",
+            "challenges": [
+              {
+                "description": "Leading the backend development of a new spin-off company almost from the start. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "GameLearn",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3c4e66bf-458a-4e3b-b8bd-9d5e0dba2d91_re7sq.jpg",
